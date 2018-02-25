@@ -1,0 +1,7 @@
+b *0x400686
+b *0x400cca
+r
+set $rip=0x400c8f
+c
+set $rip=0x400cd0
+c
