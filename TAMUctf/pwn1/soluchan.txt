@@ -8,3 +8,6 @@ What is my secret?
 How did you figure out my secret?!
 gigem{H0W_H4RD_1S_TH4T?}
 
+do gdb ./pwn1 to open the file
+make input such that $ebp-0xc == 0xf007ba11
+
